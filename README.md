@@ -14,4 +14,4 @@ QasidaGPT is an AI-powered application for generating and analyzing Arabic poetr
 ### Technologies Used
 - **Flutter**: Frontend development
 - **Flask**: Backend server
-- **Allam API & Hugging Face Models**: For AI-powered language processing
+- **WatsonX API & Hugging Face Models**: For AI-powered language processing
