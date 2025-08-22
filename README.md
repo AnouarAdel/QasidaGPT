@@ -1,5 +1,7 @@
 # QasidaGPT
 
+![Project Thumbnail](QasidaGPT.png)
+
 QasidaGPT is an AI-powered application for generating and analyzing Arabic poetry, developed using Flutter for the frontend and Flask for the backend. This project was created as part of the Allam Challenge to showcase innovations in Arabic language technology.
 
 ### Project Structure
